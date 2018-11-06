@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopIterationListExercise", "LoopIterationListExercise\LoopIterationListExercise.csproj", "{7704C867-2BA5-4DE2-ADA8-FFF57351AADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7704C867-2BA5-4DE2-ADA8-FFF57351AADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7704C867-2BA5-4DE2-ADA8-FFF57351AADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7704C867-2BA5-4DE2-ADA8-FFF57351AADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7704C867-2BA5-4DE2-ADA8-FFF57351AADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A06A1442-B27E-4A14-AA60-17B99B6279BD}
+	EndGlobalSection
+EndGlobal
